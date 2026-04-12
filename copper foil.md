@@ -14,3 +14,18 @@
 - [SMM Copper Foil Market Flash: China March Operating Rate 89.59%, April Forecast 90.72%](https://news.smm.cn/live/detail/103840018): SMM에 따르면 2026년 3월 중국 동박 기업 가동률은 89.59%(전월 대비 +5.33%p, 전년 동기 대비 +17.77%p). 리튬전지용 91.53%, 전자회로용 85.88%. 3월 출하량 전월 대비 6.88% 증가, 4월 가동률은 90.72% 예상.
 
 ---
+
+---
+## 2026-04-12
+
+> 2026-04-12(일)은 주말로, 개별 기업의 공식 공시나 주요 뉴스 발표가 없었음. 당일 전후 주간에 발표된 관련 주요 뉴스를 정리함.
+
+### SKC / SK넥실리스 (SK Nexilis)
+- [SK넥실리스, 경영악화 '희망퇴직' 단행…생산기지 해외로 이전](https://alphabiz.co.kr/news/view/1065592874580493): 전기차·배터리 시장 성장 둔화로 경영난을 겪는 SK넥실리스가 근속 5년 이상 직원을 대상으로 희망퇴직을 단행. 국내 정읍 본사는 차세대 제품 개발 '마더라인'으로 축소 운영하고, 동박 생산기지를 말레이시아 등 해외로 이전하는 방향으로 재편 중.
+
+### 하이량 (Hailiang / 海亮股份)
+- [해량(감숙), IE Expo China 2026 출전…3.5μm 극박 동박 전시](https://hailiang.us/information/go-together-with-hailiang-gansu-perform-wonders-with-copper-and-foil--high-performance-copper-foil-material-project-of-an-annual-output-of-150000-tons-of-hailiang-gansu-new-energy-materials-co-ltd-started-31.html): 하이량이 4월 13~15일 상하이 IE Expo China 2026(E6-C12 부스)에 업계 최초 3.5μm 울트라씬 동박 등 고급 제품을 전시할 예정. 글로벌 상위 10개 배터리사 중 5곳과 2026년 발효 공급 계약 체결 완료, 고급화 전환 및 해외 판로 확대에 속도.
+
+### 기타 (General)
+- [SMM Copper Foil Market Flash: Copper Foil Operating Rate Is Expected to Exceed 90% in April 2026](https://news.metal.com/newscontent/103840088-Copper-Foil-Operating-Rate-Is-Expected-to-Exceed-90-in-April-2026): SMM 4월 주간 플래시: 2026년 4월 중국 동박 전체 가동률 90.72% 예상(전월 대비 +1.13%p, 전년 동기 대비 +19.21%p). 리튬전지용 92.17%, 전자회로용 87.96%. 수요 낙관 속 기업들의 원재료·완제품 재고 비축도 활발.
+---
