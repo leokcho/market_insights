@@ -48,6 +48,10 @@
 - [Samsung SDI secures additional US ESS supply deal](https://www.energy-storage.news/samsung-sdi-secures-us1-billion-us-ess-cell-supply-deal-usitc-says-china-aam-imports-do-not-hinder-us-industry-growth/): 미국 에너지 기업과 ESS 프리즈매틱 배터리 약 15억 달러 추가 공급 계약 체결.
 - [Samsung SDI to lend $1.05 billion to Stellantis JV StarPlus Energy](https://www.tradingview.com/news/reuters.com,2026:newsml_P8N3ZR04J:0-samsung-sdi-to-lend-1-05-billion-to-stellantis-jv-starplus-energy/): 스타플러스에너지에 1.5조원(약 10.5억 달러) 대출 지원, 설비 투자 자금 활용 예정.
 
+### 2026-04-13
+- [삼성SDI, 벤츠에 첫 배터리 공급 추진](https://www.thelec.kr/news/articleView.html?idxno=54974): 삼성SDI가 메르세데스-벤츠의 차세대 전기차(2028년형)에 프리즈매틱 배터리 공급을 위한 최종 협상 진행 중. 삼성SDI로서는 벤츠향 배터리 첫 공급 가능성으로, 유럽 내 생산기지 지정·전용 라인 설치도 검토 중.
+- [하반기 실적 반등과 압도적 수주 모멘텀 주목… 삼성SDI·현대로템 등 핵심주 담아라](https://www.mt.co.kr/stock/2026/04/13/2026041311457076034): 증권가, 삼성SDI를 하반기 실적 턴어라운드 및 ESS 수주 모멘텀 최대 수혜주로 꼽으며 매수 추천.
+
 ---
 
 ## LG에너지솔루션 (LG Energy Solution) — incl. Ultium Cells
@@ -86,6 +90,9 @@
 ### 2026-04
 - [LG에너지솔루션 2026년 1분기 잠정실적 발표](https://inside.lgensol.com/2026/04/lg%EC%97%90%EB%84%88%EC%A7%80%EC%86%94%EB%A3%A8%EC%85%98-2026%EB%85%84-1%EB%B6%84%EA%B8%B0-%EC%9E%A0%EC%A0%95%EC%8B%A4%EC%A0%81-%EB%B0%9C%ED%91%9C/): 1분기 매출 6조 5,550억원, 영업손실 2,078억원(2분기 연속 적자). 북미 ESS 생산거점 초기 가동 비용·중동 지정학 리스크 원가 반영.
 - [LG Energy Solution adopts new double-stack manufacturing for Tesla](https://www.digitimes.com/news/a20260401VL221/lges-tesla-production-equipment-manufacturing.html): 테슬라용 프리즈매틱 LFP 배터리에 '더블스택(Double Stack)' 신공법 도입 — 생산 효율·에너지밀도 향상.
+
+### 2026-04-13
+- [LG에너지솔루션, AX 전환 속도… "2028년 생산성 50% 높인다"](https://www.dnews.co.kr/uhtml/view.jsp?idxno=202604130930371430935): LG에너지솔루션이 AI 전환(AX) 추진을 통해 2028년까지 전사 생산성 50% 향상 목표를 공식화. CEO 김동명, AX를 기업 생존과 직결된 핵심 과제로 강조.
 
 ---
 
@@ -170,6 +177,9 @@
 - [Top battery makers' share in China in Mar 2026: CATL 45.54%, BYD 17.83%](https://cnevpost.com/2026/04/10/top-battery-makers-share-china-mar-2026/): 2026년 3월 중국 배터리 CATL 45.54%(25.71GWh)·BYD 17.83%(10.06GWh). 글로벌 1~2월 합산 CATL 42.1%, BYD 13.4%.
 - [CATL's Dual Challenge: Pushing Tech Boundaries While Navigating a Trade War](https://primaryignition.com/2026/04/09/catls-dual-challenge-pushing-tech-boundaries-while-navigating-a-trade-war/): 나트륨이온 배터리 대규모 배치·5C 차세대 배터리 출시 등 기술 혁신을 지속하며 미·중 무역 갈등 속 유럽·북미 확장 병행.
 
+### 2026-04-13
+- [SAIC-GM-Wuling, CATL expand alliance to scale NEV ecosystem](https://autonews.gasgoo.com/articles/news/saic-gm-wuling-catl-expand-alliance-to-scale-nev-ecosystem-2043691788445851648): CATL·SAIC-GM-Wuling이 닝더에서 전략 협력 협정 강화, 산업 규모화·배터리 스와프(승용·상용)·해외 공동 진출·에코시스템 통합 등 4개 핵심 분야 협력 확대. SAIC-GM-Wuling 라인업 15개 이상 신에너지 모델에 CATL 배터리 채택.
+
 ---
 
 ## BYD (比亚迪)
@@ -194,6 +204,9 @@
 
 ### 2026-04
 - [BYD's chief scientist says solid-state EV batteries hit a 'critical stage'](https://electrek.co/2026/04/08/byds-chief-scientist-solid-state-ev-batteries-critical-stage/): BYD 수석과학자, 전고체 배터리가 '결정적 단계' 진입 공언(4월 8일). 황화물계 전고체 2027년 소량 생산·2030년 양산 목표.
+
+### 2026-04-13
+- [BYD's New Megawatt Flash Chargers Are Coming To Europe, And They'll Be Open To Everyone](https://www.carscoops.com/2026/04/byd-flash-charging-europe/): BYD가 파리 이벤트에서 덴자 Z9GT로 유럽 플래시 충전 공식 론칭. 최대 1,500kW 급속 충전기 6,000기(유럽 내 3,000기)를 1년 내 구축 예정이며, CCS2 커넥터 호환으로 타 브랜드 차량도 이용 가능.
 
 ---
 
