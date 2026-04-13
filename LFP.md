@@ -22,3 +22,16 @@
 - [Chinese Cathode Supplier to LG Energy Solution Restructures to Meet U.S. IRA Rules](https://www.thelec.net/news/articleView.html?idxno=6404): LG에너지솔루션에 LFP 양극재를 공급하던 중국 업체 재세신에너지(Jae Se New Energy)가 미국 IRA 규정 준수를 위해 4월 7일 두 개 법인으로 분리 재편. 중국 소재의 미국 공급망 탈피 움직임 가속화.
 
 ---
+
+---
+## 2026-04-12
+
+### 엘앤에프 (L&F)
+- [엘앤에프, 3년 만에 음극재 진출 접었다 (THE ELEC)](https://www.thelec.kr/news/articleView.html?idxno=54907): 엘앤에프가 일본 미쓰비시케미컬과의 음극재 합작사 설립을 포함한 음극재 사업 진출 검토를 공식 중단(4월10일 공시). 대외 정책 변화 및 전기차 업황 둔화가 이유이며, 양극재(LFP 포함) 사업 집중 전략이 공식화됨.
+- [엘앤에프, 음극재 사업 진출 검토 중단 (ZDNet Korea)](https://zdnet.co.kr/view/?no=20260410134747): 동일 공시 관련 후속 보도. 엘앤에프는 LFP 양극재 공장(엘앤에프플러스) 1단계(3만 톤) 준공을 4~5월 중 완료하고 3분기 본격 공급 예정.
+- [엘앤에프, 양극재에 집중…日 미쓰비시케미컬과 음극재 합작 중단 (서울경제)](https://www.sedaily.com/article/20031078): 음극재 진출 포기를 통해 양극재 사업에 자원 집중, 삼성SDI와의 1.6조원 LFP 공급 계약 이행에 역량 집중 예정.
+
+### 기타 (General)
+- [SK On Nears Additional ESS Orders as Georgia LFP Line Prepares for October Start (THE ELEC)](https://www.thelec.net/news/articleView.html?idxno=6492): SK온이 조지아 LFP 배터리 라인의 10월 양산을 앞두고 북미 ESS 추가 대형 수주를 목전에 두고 있다고 보도됨. 수십 GWh 규모의 공급 협상이 다수 진행 중이며 수주 가능성이 높은 것으로 전해짐. 주요 소재 공급사인 엘앤에프 양극재 공급 5~6월 시작 예정.
+
+---
