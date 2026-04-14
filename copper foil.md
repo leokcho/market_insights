@@ -29,3 +29,16 @@
 ### 기타 (General)
 - [SMM Copper Foil Market Flash: Copper Foil Operating Rate Is Expected to Exceed 90% in April 2026](https://news.metal.com/newscontent/103840088-Copper-Foil-Operating-Rate-Is-Expected-to-Exceed-90-in-April-2026): SMM 4월 주간 플래시: 2026년 4월 중국 동박 전체 가동률 90.72% 예상(전월 대비 +1.13%p, 전년 동기 대비 +19.21%p). 리튬전지용 92.17%, 전자회로용 87.96%. 수요 낙관 속 기업들의 원재료·완제품 재고 비축도 활발.
 ---
+
+---
+## 2026-04-13
+
+### 미쓰이금속 (Mitsui Mining & Smelting)
+- [Mitsui Kinzoku MicroThin Copper Foil Prices Increase Twelve Percent for Electronic and Semiconductor Industries Starting April 2026](https://www.technetbooks.com/2026/03/mitsui-kinzoku-microthin-copper-foil.html): 미쓰이금속이 AI 반도체용 MicroThin 동박에 대해 고객과 가격 협상 개시. 구리 가격 상승 및 노무비 증가를 반영하여 2026년 4월부터 12% 가격 인상 예정. 글로벌 AI 인프라 확대에 따른 반도체·서버용 고급 동박 수요 급증에 대응.
+
+### 하이량 (Hailiang / 海亮股份)
+- [IE Expo China 2026 개최 (4월 13~15일)](https://hailiang.us/information/go-together-with-hailiang-gansu-perform-wonders-with-copper-and-foil--high-performance-copper-foil-material-project-of-an-annual-output-of-150000-tons-of-hailiang-gansu-new-energy-materials-co-ltd-started-31.html): 하이량이 상하이 IE Expo China 2026에 3.5μm 울트라씬 동박 등 고급 제품 전시. 배터리사 글로벌 상위 10개 기업 중 5곳과 이미 2026년 발효 공급 계약 체결 완료.
+
+### 기타 (General)
+- [중국 동박 기업 4월 가동률 90% 이상 예상](https://news.metal.com/newscontent/103840088-Copper-Foil-Operating-Rate-Is-Expected-to-Exceed-90-in-April-2026): 2026년 4월 중국 동박 전체 가동률 90.72% 예상, 리튬전지용 92.17%, 전자회로용 87.96%. 높은 수요 전망 속 원재료·완제품 재고 비축 활발.
+---
