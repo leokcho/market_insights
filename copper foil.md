@@ -50,3 +50,19 @@
 - [중국 동박 기업 4월 가동률 90% 이상 예상](https://news.metal.com/newscontent/103840088-Copper-Foil-Operating-Rate-Is-Expected-to-Exceed-90-in-April-2026): 2026년 4월 중국 동박 전체 가동률 90.72% 예상, 리튬전지용 92.17%, 전자회로용 87.96%. 높은 수요 전망 속 원재료·완제품 재고 비축 활발.
 
 ---
+
+## 2026-04-14
+
+### 솔루스첨단소재 (Solus Advanced Materials)
+- [Solus signs major copper foil deal with Chinese battery maker](https://finance.yahoo.com/news/solus-signs-major-copper-foil-101409311.html): 솔루스첨단소재가 중국 배터리 제조사와 대형 동박 공급 계약 체결. 5년간 2만 톤의 초극박 동박을 공급하기로 합의하여, 헝가리 공장에서 내년부터 대량 공급 시작 예정.
+
+### 가원 (Jiayuan / 嘉元科技)
+- [CATL reserves 626,000 tonnes of copper foil from Jiayuan for solid-state battery development](https://www.metal.com/en/newscontent/103295424): CATL이 2026-2028년 동안 가원에서 총 62만 6천 톤의 동박을 예약. 설퍼라이드 기반 반고체 배터리 파일럿 개발 진행 중이며, 에너지 밀도 500Wh/kg 달성 목표.
+
+### 하이량 (Hailiang / 海亮股份)
+- [Hailiang and Rawas to Launch $566M Copper JV in China-Saudi Partnership](https://www.yicaiglobal.com/news/chinas-hailiang-to-set-up-usd566-million-copper-jv-with-saudi-investment-firm-rawas): 하이량이 사우디 투자사 라와스와 합작으로 $5억 6천만 규모의 구리 및 동박 생산 JV 설립. 사우디 담맘항에 연 15만 톤 구리 처리 능력(동박 5만 톤 포함) 보유한 생산기지 구축 예정.
+
+### 기타 (General)
+- [Canada's Volta to Produce Copper Foil for EV Batteries by 2026](https://www.thebuzzevnews.com/vesc-battery-copper-foil-canada/): 캐나다 퀘벡주 동박 공장 건설 중. 초기 생산 능력 2만 5천 톤/년으로 올해 말 완공 예정이며, 시장 수요에 따라 최대 6만 3천 톤까지 확장 계획.
+
+---
