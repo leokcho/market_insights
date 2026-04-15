@@ -66,3 +66,9 @@
 - [Canada's Volta to Produce Copper Foil for EV Batteries by 2026](https://www.thebuzzevnews.com/vesc-battery-copper-foil-canada/): 캐나다 퀘벡주 동박 공장 건설 중. 초기 생산 능력 2만 5천 톤/년으로 올해 말 완공 예정이며, 시장 수요에 따라 최대 6만 3천 톤까지 확장 계획.
 
 ---
+## 2026-04-15
+
+### 기타 (General)
+- [CCL price hikes to extend through 2026 with rising glass fiber and copper foil costs](https://www.digitimes.com/news/a20260415PD217/ccl-fiberglass-cloth-high-end-demand-price.html): AI 서버용 고급 PCB 수요 급증으로 상류 소재 공급 불균형 심화. 동박 비용 상승이 CCL(동박적층판) 가격 인상을 주도하고 있으며, 2026년 전반에 걸쳐 가격 인상이 이어질 전망.
+
+---
