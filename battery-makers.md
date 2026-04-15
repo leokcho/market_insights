@@ -52,6 +52,11 @@
 - [삼성SDI, 벤츠에 첫 배터리 공급 추진](https://www.thelec.kr/news/articleView.html?idxno=54974): 삼성SDI가 메르세데스-벤츠의 차세대 전기차(2028년형)에 프리즈매틱 배터리 공급을 위한 최종 협상 진행 중. 삼성SDI로서는 벤츠향 배터리 첫 공급 가능성으로, 유럽 내 생산기지 지정·전용 라인 설치도 검토 중.
 - [하반기 실적 반등과 압도적 수주 모멘텀 주목… 삼성SDI·현대로템 등 핵심주 담아라](https://www.mt.co.kr/stock/2026/04/13/2026041311457076034): 증권가, 삼성SDI를 하반기 실적 턴어라운드 및 ESS 수주 모멘텀 최대 수혜주로 꼽으며 매수 추천.
 
+### 2026-04-15
+- [Is Mercedes set to source battery cells from Samsung SDI soon? - electrive.com](https://www.electrive.com/2026/04/14/is-mercedes-set-to-source-battery-cells-from-samsung-sdi-soon/): 삼성SDI가 메르세데스-벤츠의 2028년형 MMA 플랫폼 전기차에 프리즈매틱 배터리 공급을 위한 최종 협상 단계. 오스트리아·슬로바키아·체코 등 유럽 생산거점 검토 중.
+- [Samsung is lining up a big EV battery win with Mercedes-Benz - SamMobile](https://www.sammobile.com/2026/04/15/samsung-is-lining-up-a-big-ev-battery-win-with-mercedes-benz/): 삼성SDI, 벤츠향 첫 EV 배터리 공급 예정. 벤츠는 AAC(메르세데스-스텔란티스-Saft JV)의 생산 지연·수율 문제로 인한 대체 공급업체 발굴 중.
+- [Samsung SDI in final talks to supply batteries for Mercedes EVs](https://www.digitimes.com/news/a20260415PD216/samsung-sdi-mercedes-benz-production-europe-volkswagen.html): 삼성SDI가 벤츠의 차세대 프리즈매틱 배터리 주요 후보로 부상. 유럽 내 전용 생산라인 또는 신규 공장 건립 논의 중.
+
 ---
 
 ## LG에너지솔루션 (LG Energy Solution) — incl. Ultium Cells
@@ -94,6 +99,12 @@
 ### 2026-04-13
 - [LG에너지솔루션, AX 전환 속도… "2028년 생산성 50% 높인다"](https://www.dnews.co.kr/uhtml/view.jsp?idxno=202604130930371430935): LG에너지솔루션이 AI 전환(AX) 추진을 통해 2028년까지 전사 생산성 50% 향상 목표를 공식화. CEO 김동명, AX를 기업 생존과 직결된 핵심 과제로 강조.
 
+### 2026-04-15
+- [LG Energy Solution Joins GM-Founded SDVerse Software Marketplace](https://gmauthority.com/blog/2026/04/lg-energy-solution-joins-gm-founded-sdverse-software-marketplace/): LG에너지솔루션, GM 주도 자동차 소프트웨어 마켓플레이스 'SDVerse'에 배터리 제조사 최초 참여. 배터리 데이터·분석 활용 소프트웨어 5종 출시.
+- [LG Energy Solution targets 90GWh of battery orders in US energy storage market in 2026](https://www.energy-storage.news/lg-energy-solution-targets-50-percent-share-of-us-energy-storage-market-in-2026/): LG에너지솔루션, 2026년 미국 ESS 시장 90GWh 수주 목표. 글로벌 배터리 생산능력 300GWh 유지 중.
+- [EOL Technology at LG Energy Solution: Taking Full Responsibility for Battery Performance and Safety](https://inside.lgensol.com/en/2026/04/eol-technology-at-lg-energy-solution-taking-full-responsibility-for-battery-performance-and-safety/): LG에너지솔루션, EOL(End-of-Line) 기술로 배터리 성능·안전성 완전 책임화 추진.
+- [Ultium Cells LFP Battery Production at Spring Hill Tennessee](https://www.ess-news.com/2026/03/18/lg-and-gm-pivot-ultium-cells-jv-to-lfp-battery-production-for-us-storage-market-at-tennessee-plant/): Ultium Cells(LG에너지솔루션·GM JV), 테네시 Spring Hill 공장에서 2분기부터 LFP 배터리 ESS 생산 전환. 70억 달러 투자로 설비 재정비, LGES Vertech에 공급.
+
 ---
 
 ## SK온 (SK On)
@@ -124,6 +135,10 @@
 ### 2026-04
 - [신한은행, SK온 손잡고 K-배터리 해외 확장 지원](https://www.dt.co.kr/article/12056612): 신한은행이 SK온과 업무협약 체결, 미화 5억 달러 규모 글로벌 본드 신용보강 제공. K-배터리 공급망 확대·글로벌 시장 주도권 확보 지원.
 
+### 2026-04-15
+- [SK On signs 7.2GWh deal to supply US-made LFP batteries to Flatiron Energy Development](https://www.energy-storage.news/sk-on-signs-7-2gwh-deal-to-supply-us-made-lfp-batteries-to-flatiron-energy-development/): SK온이 미국 에너지저장사 Flatiron Energy Development와 7.2GWh 규모 LFP 배터리 공급 계약 체결. 미국 생산 LFP 배터리로 ESS 시장 진출 확대.
+- [SK On to build fully 'Made In Korea' LFP batteries for ESS to cut reliance on Chinese materials](https://www.kedglobal.com/batteries/newsView/ked202601230008): SK온이 국내산 부품 활용한 'Made in Korea' LFP 배터리 개발 추진. 중국 원재료 의존도 감소 목표.
+
 ---
 
 ## 파나소닉 (Panasonic) — incl. PPES
@@ -137,6 +152,12 @@
 
 ### 2026-02
 - [De Soto Panasonic battery plant nearing 50% production](https://kansasreflector.com/briefs/de-soto-panasonic-battery-plant-nearing-50-production-second-wing-underway/): 캔자스 드소토 공장 가동률 50% 근접, 제2동(Wing) 건설 착수(2월 3일). 2027년 전체 4라인 완성 목표.
+
+### 2026-04-15
+- [Panasonic in talks over second US-based EV battery factory: Report](https://driveteslacanada.ca/news/panasonic-in-talks-over-second-us-based-ev-battery-factory-report/): 파나소닉이 미국 내 2번째 EV 배터리 공장 건립을 검토 중. 캔자스 드소토 공장에 이은 추가 투자로 북미 생산능력 확대.
+- [Panasonic plans anode-free EV battery by 2027](https://www.electrive.com/2025/09/19/panasonic-plans-anode-free-ev-battery-by-2027/): 파나소닉이 2027년 음극 없는 EV 배터리 상용화 추진. 기술 완성 시 테슬라 Model Y 항속거리 145km 향상 가능.
+- [Charged EVs | Panasonic Energy to supply EV batteries for Zoox robotaxis](https://chargedevs.com/newswire/panasonic-energy-to-supply-ev-batteries-for-zoox-robotaxis/): 파나소닉 에너지, 아마존 Zoox 로봇택시에 21700 배터리 장기 공급 계약 체결.
+- [LG Chem to supply cathode active materials to Toyota-Panasonic JV](https://chargedevs.com/newswire/lg-chem-to-supply-cathode-active-materials-to-toyota-panasonic-jv/): Prime Planet Energy & Solutions(파나소닉·도요타 JV), LG Chem과 양극재 공급 계약 체결. 2026년부터 공급 개시로 프리즈매틱 배터리 경쟁력 강화.
 
 ---
 
@@ -180,6 +201,11 @@
 ### 2026-04-13
 - [SAIC-GM-Wuling, CATL expand alliance to scale NEV ecosystem](https://autonews.gasgoo.com/articles/news/saic-gm-wuling-catl-expand-alliance-to-scale-nev-ecosystem-2043691788445851648): CATL·SAIC-GM-Wuling이 닝더에서 전략 협력 협정 강화, 산업 규모화·배터리 스와프(승용·상용)·해외 공동 진출·에코시스템 통합 등 4개 핵심 분야 협력 확대. SAIC-GM-Wuling 라인업 15개 이상 신에너지 모델에 CATL 배터리 채택.
 
+### 2026-04-15
+- [Naxtra Battery Breakthrough & Dual-Power Architecture: CATL Pioneers the Multi-Power Era](https://www.catl.com/en/news/6401.html): CATL의 나트륨이온 배터리 'Naxtra'가 중국 신규 국가 표준(GB 38031-2025) 인증 통과. 에너지밀도 175Wh/kg, 500km 주행 가능, 15분 80% 충전 달성.
+- [CATL, Wuling partner on under-10-minute EV fast charging](https://cnevpost.com/2026/04/14/catl-wuling-partner-under-10-min-fast-charging/): CATL과 SAIC-GM-Wuling, 10분 이내 10→80% 충전 가능한 차세대 고속충전 기술 공동 개발 추진.
+- [SAIC-GM-Wuling's battery-swapping models will be gradually integrated into CATL's nationwide swapping network](https://www.energy-storage.news/): CATL의 전국 배터리 교환 네트워크가 연말 3,000개 충전소 돌파 예정. SAIC-GM-Wuling 배터리 교환 차량 통합 진행.
+
 ---
 
 ## BYD (比亚迪)
@@ -207,6 +233,11 @@
 
 ### 2026-04-13
 - [BYD's New Megawatt Flash Chargers Are Coming To Europe, And They'll Be Open To Everyone](https://www.carscoops.com/2026/04/byd-flash-charging-europe/): BYD가 파리 이벤트에서 덴자 Z9GT로 유럽 플래시 충전 공식 론칭. 최대 1,500kW 급속 충전기 6,000기(유럽 내 3,000기)를 1년 내 구축 예정이며, CCS2 커넥터 호환으로 타 브랜드 차량도 이용 가능.
+
+### 2026-04-15
+- [BYD Song Pro PHEV crossover to get a 33% EV range boost due to new battery](https://carnewschina.com/2026/04/15/byd-song-pro-phev-crossover-to-get-a-33-ev-range-boost-due-to-new-battery/): BYD 송 프로 DM-i 플러그인 하이브리드, 신형 배터리팩으로 EV 주행거리 33.3% 향상. CLTC 기준 290km 달성, 플래시 충전으로 10%→97% 9분 충전 가능.
+- [BYD Blade Battery 2.0: how it delivers 1000+ km real-world range](https://www.evinfrastructurenews.com/ev-battery/byd-blade-battery-2): BYD 블레이드 배터리 2.0, 10%→70% 5분, 10%→97% 9분(상온) 및 -30℃에서 12분 충전 달성.
+- [BYD Flash Charging Hits 1.5 MW: 10-70% in 5 Minutes, 10-97% in 9 Minutes](https://evchargingstations.com/chargingnews/byd-flash-charging-1-5-mw/): BYD 플래시 충전 기술, 1.5MW 메가와트급으로 업그레이드. 5분 내 70% 충전 가능.
 
 ---
 
@@ -239,6 +270,11 @@
 - [Five Leading Energy Storage Enterprises Including EVE Energy and CALB Establish Nine New Companies](https://www.energytrend.com/news/20260410-51224.html): EVE Energy·CALB·Gotion 등 5개사, 3~4월 에너지저장 관련 신규 법인 9곳 설립(4월 10일 기준). 총 등록 자본 33억 위안 이상. 에너지저장 배터리 기지·시스템 통합·발전소 운영 집중 투자.
 - [Three Announcements in One Day: EVE Energy Plans RMB 11 Billion Expansion](https://www.energytrend.com/news/20260409-51211.html): EVE Energy, 장쑤성 치둥(50GWh)·푸젠성 상항(60GWh) 총 110GWh 에너지저장 공장 건설에 110억 위안(약 16억 달러) 투자 발표(4월 9일).
 
+### 2026-04-15
+- [Over 21GWh! EVE Energy, Tesla, and HEES Secure Domestic and International Energy Storage Orders](https://www.energytrend.com/news/20260415-51245.html): EVE Energy, 테슬라·HEES 등과 함께 5년간 에너지저장 배터리셀 21GWh+ 공급 계약 체결. 국내외 시장 주문 확보로 사업 확대.
+- [EVE Energy Launches 6.9MWh BESS Globally, Signs Over 50GWh in Large-Format Battery Deals](https://www.prnewswire.com/apac/news-releases/eve-energy-launches-6-9mwh-bess-globally-signs-over-50gwh-in-large-format-battery-deals-302735641.html): EVE Energy, 6.9MWh 대형 에너지저장 시스템 공개 및 50GWh+ 규모 대형 배터리 계약 체결. 말레이시아 공장 2단계 지역 1분기 납품 개시.
+- [EVE Energy plans CN¥11bn expansion as Q1 profit surges](https://www.automotiveworld.com/news/eve-energy-plans-cn%C2%A511bn-expansion-as-q1-profit-surges/): EVE Energy, 1분기 이익 급증 배경에서 110억 위안 투자로 에너지저장 공장 확장 추진. 글로벌 EV·ESS 시장 진출 강화.
+
 ---
 
 ## 테슬라 (Tesla)
@@ -254,6 +290,11 @@
 
 ### 2026-04
 - [Tesla adds China's Sunwoda as fifth global EV battery supplier](https://electrek.co/2026/04/10/tesla-adds-sunwoda-fifth-global-battery-supplier-cost-pressure/): 테슬라, 중국 선우다(Sunwoda)를 다섯 번째 글로벌 배터리 공급업체로 추가(4월 10일). 3C LFP 셀이 상하이 기가팩토리 차량에 탑재 중.
+
+### 2026-04-15
+- [Tesla's New LFP Battery Plant: Wet Coating Process & CATL Equipment](https://www.batterytechonline.com/battery-manufacturing/tesla-unveils-lfp-battery-plant-in-nevada-adopting-wet-coating-process): 테슬라 네바다 기가팩토리, CATL 장비 기반 LFP 배터리 공장 운영. 습식 코팅 공정 도입으로 생산 효율 향상.
+- [Panasonic to grow battery production by 10% at Tesla Nevada Gigafactory](https://www.automotivemanufacturingsolutions.com/ev-battery-production/panasonic-to-grow-battery-production-by-10-at-tesla-nevada-gigafactory/44303.article): 파나소닉, 테슬라 네바다 기가팩토리에서 배터리 생산 3년간 10% 증설. 2031년 글로벌 200GWh 생산 목표 향해 진행 중.
+- [Tesla's EV battery production and global gigafactory network](https://www.automotivemanufacturingsolutions.com/electrification/electric-dreams-teslas-gigafactory-network-and-ev-battery-production-blueprint/545858): 테슬라, 36억 달러 투자로 네바다 기가팩토리 추가 확장 발표. 3,000명 신규 인력 채용 예정(기존 11,000명).
 
 ---
 
