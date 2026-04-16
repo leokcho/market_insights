@@ -239,6 +239,10 @@
 - [BYD Blade Battery 2.0: how it delivers 1000+ km real-world range](https://www.evinfrastructurenews.com/ev-battery/byd-blade-battery-2): BYD 블레이드 배터리 2.0, 10%→70% 5분, 10%→97% 9분(상온) 및 -30℃에서 12분 충전 달성.
 - [BYD Flash Charging Hits 1.5 MW: 10-70% in 5 Minutes, 10-97% in 9 Minutes](https://evchargingstations.com/chargingnews/byd-flash-charging-1-5-mw/): BYD 플래시 충전 기술, 1.5MW 메가와트급으로 업그레이드. 5분 내 70% 충전 가능.
 
+### 2026-04-16
+- [BYD launches new electric sedan with 5 minute Flash Charging, under $A22,600](https://thedriven.io/2026/04/16/byd-launches-new-electric-suv-with-5-minute-flash-charging-under-a22600/): BYD의 신형 이7(e7) 세단이 중국 딜러사에 도착. 블레이드 배터리 2.0과 플래시 충전 기술 탑재로 5분 내 10→70% 충전·9분 내 10→97% 충전 가능.
+- [New BYD Han EV sedan arrives at China dealers with flash charging and blade battery 2.0](https://carnewschina.com/2026/04/16/new-byd-han-ev-sedan-arrives-at-china-dealers-with-flash-charging-and-blade-battery-2-0/): BYD 한(Han) EV 세단이 신형 플래시 충전과 블레이드 배터리 2.0으로 출시. 1분기 중국 경제 배터리 시장 신차 라인업 강화.
+
 ---
 
 ## CALB (中创新航)
