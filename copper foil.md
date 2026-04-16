@@ -72,3 +72,8 @@
 - [CCL price hikes to extend through 2026 with rising glass fiber and copper foil costs](https://www.digitimes.com/news/a20260415PD217/ccl-fiberglass-cloth-high-end-demand-price.html): AI 서버용 고급 PCB 수요 급증으로 상류 소재 공급 불균형 심화. 동박 비용 상승이 CCL(동박적층판) 가격 인상을 주도하고 있으며, 2026년 전반에 걸쳐 가격 인상이 이어질 전망.
 
 ---
+## 2026-04-16
+
+뉴스 없음
+
+---
