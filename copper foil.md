@@ -77,3 +77,10 @@
 뉴스 없음
 
 ---
+
+## 2026-04-17
+
+### 기타 (General)
+- [Chinese researchers develop copper foil combining strength, conductivity, thermal stability](https://english.news.cn/20260417/7ff5e2fbb6884e84a247bc70e087d848/c.html): 중국 국립금속연구소(중국과학원 금속연구소) 루레이 팀이 강도, 전기전도도, 열안정성을 모두 만족하는 신형 동박 개발. '그래디언트 나노도메인 아키텍처' 설계를 활용한 전기증착 공정으로 제조하며, 인장강도 ~900MPa, 전기전도도는 순동의 90% 수준(구리합금 대비 약 3배). Science 논문에 발표.
+
+---
