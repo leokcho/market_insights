@@ -54,3 +54,9 @@
 ### 기타 (General)
 - [Challenges and advances of sulfide solid electrolytes for high-energy-density sodium metal batteries](https://pubs.rsc.org/en/content/articlelanding/2026/sc/d5sc10189a): 황화물 고체전해질은 나트륨 메탈 배터리의 고에너지 밀도 달성을 위한 주요 재료로 평가받으며, 10^-3 S·cm^-1 이상의 초고 이온 전도도와 우수한 기계적 특성으로 인해 광범위한 연구 관심을 받고 있음.
 - [KITECH develops sulfide solid electrolyte material](https://www.digitaltoday.co.kr/en/view/48122/kitech-develops-sulfide-solid-electrolyte-material-for-all-solid-state-batteries): KITECH는 황화물 고체전해질 소재 개발에 성공했으며, 이온 전도도가 기존 소재 대비 77배 향상된 1.158 mS/cm 달성. 30% 상대습도 환경에서 황화수소 발생이 40% 감소한 성과 보임.
+
+---
+
+## 2026-04-17
+
+뉴스 없음
