@@ -105,6 +105,10 @@
 - [EOL Technology at LG Energy Solution: Taking Full Responsibility for Battery Performance and Safety](https://inside.lgensol.com/en/2026/04/eol-technology-at-lg-energy-solution-taking-full-responsibility-for-battery-performance-and-safety/): LG에너지솔루션, EOL(End-of-Line) 기술로 배터리 성능·안전성 완전 책임화 추진.
 - [Ultium Cells LFP Battery Production at Spring Hill Tennessee](https://www.ess-news.com/2026/03/18/lg-and-gm-pivot-ultium-cells-jv-to-lfp-battery-production-for-us-storage-market-at-tennessee-plant/): Ultium Cells(LG에너지솔루션·GM JV), 테네시 Spring Hill 공장에서 2분기부터 LFP 배터리 ESS 생산 전환. 70억 달러 투자로 설비 재정비, LGES Vertech에 공급.
 
+### 2026-04-17
+- [역대 최대규모 연구∙전문위원 선임, 인재 육성 및 기술리더십 선도 의지](https://inside.lgensol.com/2026/04/%EC%97%AD%EB%8C%80-%EC%B5%9C%EB%8C%80%EA%B7%9C%EB%AA%A8-%EC%97%B0%EA%B5%AC%E2%88%99%EC%A0%84%EB%AC%B8%EC%9C%84%EC%9B%90-%EC%84%A0%EC%9E%84-%EC%9D%B8%EC%9E%AC-%EC%9C%A1%EC%84%B1/): LG에너지솔루션, 2026년 신규 연구·전문위원 17명 선임으로 역대 최대 규모 인재 발탁. 분사 후 최연소 연구위원, 첫 외국인 연구위원 등 다양한 배경의 R&D 인재 대거 영입.
+- [LG엔솔, 폴란드에 '유럽 최대' 에너지 저장고 짓는다… 1GWh급 배터리 공급](https://www.g-enews.com/article/Global-Biz/2026/04/2026041708080826630c8c1c064d_1): LG에너지솔루션, 폴란드 자르노비에츠 지역 981MWh 규모 전력망 ESS 단지에 저장 배터리 공급 계약. 2026년부터 배터리 공급 시작해 2027년 2분기 상업 운영 개시 목표.
+
 ---
 
 ## SK온 (SK On)
@@ -242,6 +246,9 @@
 ### 2026-04-16
 - [BYD launches new electric sedan with 5 minute Flash Charging, under $A22,600](https://thedriven.io/2026/04/16/byd-launches-new-electric-suv-with-5-minute-flash-charging-under-a22600/): BYD의 신형 이7(e7) 세단이 중국 딜러사에 도착. 블레이드 배터리 2.0과 플래시 충전 기술 탑재로 5분 내 10→70% 충전·9분 내 10→97% 충전 가능.
 - [New BYD Han EV sedan arrives at China dealers with flash charging and blade battery 2.0](https://carnewschina.com/2026/04/16/new-byd-han-ev-sedan-arrives-at-china-dealers-with-flash-charging-and-blade-battery-2-0/): BYD 한(Han) EV 세단이 신형 플래시 충전과 블레이드 배터리 2.0으로 출시. 1분기 중국 경제 배터리 시장 신차 라인업 강화.
+
+### 2026-04-17
+- [BYD reaches 16 millionth NEV production milestone with new Denza D9](https://cnevpost.com/2026/04/17/byd-reaches-16-millionth-nev-production-milestone/): BYD의 덴자 D9 MPV 2세대 모델이 조립 라인에서 나와 BYD의 1,600만 대 신에너지 자동차 생산 마일스톤 달성. 블레이드 배터리 2.0과 플래시 충전 기술로 10→97% 9분 충전 지원.
 
 ---
 
