@@ -87,3 +87,9 @@
 - [LFP technology breakthroughs accelerate market adoption in 2026](https://www.lfp-battery-tech.com/news/half-the-market-none-of-the-drama): 2026년 북미 배터리 수요의 47%가 LFP 화학으로 이행될 전망이며, 차세대 LMFP 기술이 에너지 밀도 15~20% 향상 가능성을 시사.
 - [Integrals Power secures UK government funding for LFP and LMFP cathode production](https://chargedevs.com/newswire/integrals-power-secures-uk-government-funding-to-scale-lfp-and-lmfp-cathode-production-to-1000-tonnes-year/): 영국의 Integrals Power가 정부 지원을 받아 LFP 및 LMFP 양극재 생산을 연간 1,000톤으로 확대할 계획.
 - [Ola Electric announces indigenous LFP battery cell development](https://swarajyamag.com/technology/how-to-think-about-olas-lfp-battery-announcement): 인도의 올라일렉트릭이 타밀나두 기가팩토리에서 자체 개발한 LFP 배터리셀을 발표하며 글로벌 LFP 생산 다각화 현상 심화.
+
+---
+
+## 2026-04-18
+
+뉴스 없음
