@@ -314,4 +314,7 @@
 ### 2026-04-13
 - [CBAK Energy Achieves 2nd in 26650/26700 and 3rd in 32140 Cylindrical Cell Shipments in China](https://www.globenewswire.com/news-release/2026/04/13/3272357/0/en/CBAK-Energy-Achieves-2nd-in-26650-26700-and-3rd-in-32140-Cylindrical-Cell-Shipments-in-China.html): CBAK Energy가 중국 원통형 배터리 시장에서 2025년 26650/26700 셀 출하량 2위, 32140/33140 셀 3위 달성. 풀탭 기술 적용한 32140 대형 원통형 배터리로 열 관리·성능 우위.
 
+### 2026-04-18
+- 뉴스 없음
+
 ---
