@@ -7,6 +7,14 @@
 - Status update: New Carlisle 공장 개시일 미확정 (당초 2026년 → 2027년으로 변경)
 - Progress: NCM 배터리 외 LFP 생산라인 추가 전환 계획
 
+### 2026-04-16
+- [CATL 6.5조 공급망 사업 투자](https://www.mt.co.kr/world/2026/04/16/2026041613220696747): CATL, 65억 달러(약 6.5조 원) 규모의 공급망 사업 자회사 설립 계획. 시다이리소스그룹(Shidai Resources Group)을 통해 리튬, 니켈 등 배터리 원자재 업스트림 사업 진출.
+  상태: 공급망 전략적 확대 (원재료 수직 통합)
+
+### 2026-04-17
+- [LG엔솔, 폴란드에 유럽 최대 에너지저장고 건설](https://www.g-enews.com/article/Global-Biz/2026/04/2026041708080826630c8c1c064d_1): LG에너지솔루션이 폴란드에 1GWh급 배터리 에너지저장시스템 공장 건설. 유럽 ESS 시장 공략 강화.
+  상태: 건설 계획 발표 (신규 프로젝트)
+
 ### 2026-04-18
 - [Mercedes set to source battery cells from Samsung SDI soon](https://www.electrive.com/2026/04/14/is-mercedes-set-to-source-battery-cells-from-samsung-sdi-soon/): Samsung SDI, Mercedes-Benz와의 프리즘 배터리 공급 협상 진행 중. 2028년 시장 진출 목표이며, 유럽 내 생산시설 설립(오스트리아, 슬로바키아, 체코) 논의 중.
   상태: 협상 단계 (Tier 2 - 고객 확보)
@@ -51,4 +59,7 @@
 
 ### 2026-04-16
 - [IBU-tec LFP battery material plant construction progress in Germany (Bitterfeld-Wolfen)](https://www.electrive.com/2026/04/16/ibu-tec-reports-progress-on-plant-construction-for-lfp-battery-material-in-germany/): LFP 배터리 재료 생산시설 건설. 2026년 중반부터 인프라 확충, Q4 2026 스프레이타워 준공 계획.
+
+### 2026-04-19
+뉴스 없음
 
