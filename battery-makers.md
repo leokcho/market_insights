@@ -210,6 +210,10 @@
 - [CATL, Wuling partner on under-10-minute EV fast charging](https://cnevpost.com/2026/04/14/catl-wuling-partner-under-10-min-fast-charging/): CATL과 SAIC-GM-Wuling, 10분 이내 10→80% 충전 가능한 차세대 고속충전 기술 공동 개발 추진.
 - [SAIC-GM-Wuling's battery-swapping models will be gradually integrated into CATL's nationwide swapping network](https://www.energy-storage.news/): CATL의 전국 배터리 교환 네트워크가 연말 3,000개 충전소 돌파 예정. SAIC-GM-Wuling 배터리 교환 차량 통합 진행.
 
+### 2026-04-18
+- [따스한 봄날 도로 위에서 멈칫…세계 1위 배터리 믿었는데, 무슨 일?](https://www.news-wa.com/article/automobiles/2026/04/18/20260418500038): Li Auto의 신형 순수 전기차 i6 모델이 CATL 배터리 사용 후 출고 2개월 내에 주행 중 예고 없이 멈추는 결함 보도. CATL은 글로벌 전기차 배터리 시장 37.8% 점유율 보유.
+- [GAC Aion unveils battery-electric saloon with swappable battery from CATL](https://www.electrive.com/2026/04/18/gac-aion-unveils-battery-electric-saloon-with-swappable-battery-from-catl/): GAC Aion의 신형 전기 세단 Aion RT가 CATL의 'Chocolate-Swap' 배터리 교체 기술 탑재. 54kWh LFP 배터리로 약 11,000유로 가격대, 중국 배터리 교환 네트워크 호환성.
+
 ---
 
 ## BYD (比亚迪)
@@ -315,6 +319,6 @@
 - [CBAK Energy Achieves 2nd in 26650/26700 and 3rd in 32140 Cylindrical Cell Shipments in China](https://www.globenewswire.com/news-release/2026/04/13/3272357/0/en/CBAK-Energy-Achieves-2nd-in-26650-26700-and-3rd-in-32140-Cylindrical-Cell-Shipments-in-China.html): CBAK Energy가 중국 원통형 배터리 시장에서 2025년 26650/26700 셀 출하량 2위, 32140/33140 셀 3위 달성. 풀탭 기술 적용한 32140 대형 원통형 배터리로 열 관리·성능 우위.
 
 ### 2026-04-18
-- 뉴스 없음
+- [Tired of waiting for your EV to charge up? One Chinese company has a novel solution](https://www.npr.org/2026/04/18/nx-s1-5788990/ev-battery-charge-long-china-nio): 중국 업체의 혁신적인 배터리 충전 솔루션 소개. EV 급속충전 시장의 새로운 진전 보도.
 
 ---
