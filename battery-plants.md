@@ -7,10 +7,27 @@
 - Status update: New Carlisle 공장 개시일 미확정 (당초 2026년 → 2027년으로 변경)
 - Progress: NCM 배터리 외 LFP 생산라인 추가 전환 계획
 
+### 2026-04-18
+- [Mercedes set to source battery cells from Samsung SDI soon](https://www.electrive.com/2026/04/14/is-mercedes-set-to-source-battery-cells-from-samsung-sdi-soon/): Samsung SDI, Mercedes-Benz와의 프리즘 배터리 공급 협상 진행 중. 2028년 시장 진출 목표이며, 유럽 내 생산시설 설립(오스트리아, 슬로바키아, 체코) 논의 중.
+  상태: 협상 단계 (Tier 2 - 고객 확보)
+  영향: 유럽 신규 공장 투자 가능성
+
+- [StarPlus Energy finalizes $7.5B DOE loan for two battery plants in Indiana](https://www.utilitydive.com/news/starplus-energy-finalizes-doe-loan-battery-plants-indiana-stellantis-samsung/736039/): StarPlus Energy (Stellantis-Samsung SDI JV) Kokomo 공장 2개 건설에 75억 달러 DOE 대출 확정. 첫 번째 공장 2025년 Q1 개시(33 GWh), 두 번째 공장 2027년 초 개시(34 GWh) 예정.
+  상태: 자금 확보 완료, 건설 진행 중
+  진행률: 첫 번째 공장 가동 개시(2025년 Q1), 두 번째 공장 설계/건설 중
+
 ### 2026-03-18
 - [GM and Samsung SDI to install LFP lines at Indiana plant alongside NCM](https://news.gm.com): New Carlisle 공장에 LFP 생산라인 추가 설치 결정. 에너지 저장 시장 성장에 대응하는 포트폴리오 다양화.
 
 ## LG Energy Solution — North America & Europe Plants
+
+### 2026-04-18
+- [LG Energy Solution becomes first battery company to join SDVerse](https://inside.lgensol.com/en/2026/04/lg-energy-solution-becomes-first-battery-company-to-join-sdverseglobal-b2b-marketplace-for-automotive-software/): LG에너지솔루션이 GM 주도 자동차 소프트웨어 마켓플레이스 SDVerse 첫 번째 배터리사로 참여. BMS, 진단도구, AI 기반 배터리 성능 추정 솔루션 5개 제공.
+  상태: 전략적 제휴 확대 (소프트웨어 정의 자동차 대응)
+  영향: ESS + 자동차 소프트웨어 통합 전략
+
+- [LG Energy targets 50% productivity gain by 2028 on AI push](https://www.koreaherald.com/article/10715694): LG에너지솔루션, 2028년까지 AI 도입으로 생산성 50% 향상 목표 설정(기존 2030년까지 30% 목표에서 상향).
+  상태: 디지털 혁신 추진
 
 ### 2026-03-20
 - [Ultium Cells Spring Hill LFP production for stationary storage begins Q2 2026](https://www.electrive.com/2026/03/20/ultium-cells-to-produce-lfp-battery-cells-for-stationary-storage-in-spring-hill/): Ultium Cells Spring Hill 공장에 7천만 달러 투자로 LFP 배터리셀 생산라인 구축. Q2 2026 가동 시작.
